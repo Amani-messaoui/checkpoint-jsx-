@@ -1,0 +1,11 @@
+.red{
+text-shadow:4px 4px 0px #FFF, 7px 7px 0px #877667;
+color:#594E44;
+background-color:#FFF;
+
+}
+.title{
+    padding :20px;
+    border-bottom: 2px solid black ;
+    font-size: 50px;
+}
